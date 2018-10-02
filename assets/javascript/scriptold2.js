@@ -1,4 +1,4 @@
-var topics = ["charlie brown christmas", "rudolph the red nose", "it's a wonderful life", "miracle on 34th st", "elf"]
+var topics = ["charlie brown christmas", "puppies", "chickens", "rabbits"]
 console.log(topics)
 
 function displayTopicGifs () {
